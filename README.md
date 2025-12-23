@@ -18,8 +18,3 @@ This project simulates a real trading system using modern backend architecture a
 - 💰 Real BTCUSDT prices from Binance Testnet
 - 🌗 Dark / Light theme toggle
 - 🎨 Animated gradient landing page
-
----
-
-## 🧱 Architecture Overview
-
