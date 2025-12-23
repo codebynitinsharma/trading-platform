@@ -8,5 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3",
+    "redis": "^5.10.0",
+    "ws": "^8.18.3"
+  }
 }
