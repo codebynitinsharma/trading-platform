@@ -36,11 +36,10 @@ Event Service
    ↓
 WebSocket → Frontend
 
-_(ASCII diagrams are totally acceptable — rubric says “diagram preferred”, not required)_
 
 ---
 
-### 🔹 Add: API Documentation
+### API Documentation
 
 ```md
 ## 📡 API Documentation
@@ -73,6 +72,8 @@ _(ASCII diagrams are totally acceptable — rubric says “diagram preferred”,
 
 Parts of this project were developed with the assistance of ChatGPT.
 All code was reviewed, understood, and integrated manually.
+
+## .env details
 DATABASE_URL=postgresql://user:password@localhost:5432/db
 JWT_SECRET=your_jwt_secret
 REDIS_URL=redis://localhost:6379
